@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(33, 189, 236);
+    color: #99640B;
+}
+h1{
+    font-style: italic;
+    font-size: 4em;
+}
+h2, h3{
+    color: aliceblue;
+}
+

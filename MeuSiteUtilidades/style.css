@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+body{
+    background-image: linear-gradient(to right, #056cf270, #05aff246);
+}
+
+ul{
+    font-size: 20px;
+}
+div#titulo{
+    margin-top: -30px;
+    font-family: 'MedievalSharp', cursive;
+    font-size: 2em;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgba(64, 150, 248, 0.452);
+}
+#top{
+    background-color: antiquewhite;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin-left: 50%;
+    font-size: large;
+}
